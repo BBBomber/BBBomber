@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBBomber
 
-I've just started game development using unity. .
+I've just started game development, tryna learn and getting better..
 
 <!---
 BBBomber/BBBomber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
