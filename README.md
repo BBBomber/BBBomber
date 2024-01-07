@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBBomber
 
-I develop games mostly. 
+I design, develop, and play games.  
 
 <!---
 BBBomber/BBBomber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
