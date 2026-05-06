@@ -37,4 +37,4 @@ C++ Space Invaders in SFML. Originally a teaching project at Outscal, demonstrat
 
 ---
 
-[Portfolio](https://yashasvi-portfolio.framer.website/) · [LinkedIn](https://www.linkedin.com/in/yashasvi-chopra-b0b615188/) · yashasvi.chopra555@gmail.com
+[Portfolio](https://yashasviportfolio2026.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/yashasvi-chopra-b0b615188/) · yashasvi.chopra555@gmail.com
