@@ -2,7 +2,7 @@
 
 Game developer with 4 years of experience across Unreal Engine, Unity, and SFML. I like systems that are satisfying to build and games that feel good to play.
 
-Currently building **Will It Fit?** — a 2D soft body platformer headed to Steam and mobile. Repo is private but there's a playable tech demo on [itch.io](https://peanutman666.itch.io/). Also making a multiplayer mobile game that is in closed beta atm. Stay tuned to find out more.
+Currently building **Will It Fit?** : a 2D soft body platformer headed to Steam and mobile. Repo is private but there's a playable tech demo on [itch.io](https://peanutman666.itch.io/). Also making a multiplayer mobile game that is in closed beta atm. Stay tuned to find out more.
 
 ---
 
