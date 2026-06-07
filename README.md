@@ -8,9 +8,9 @@ Currently building **Will It Fit?** : a 2D soft body platformer headed to Steam 
 
 ## What I work with
 
-Engines: Unreal Engine, Unity, SFML  
-Languages: C++, C#  
-Systems: OOP, Design Patterns, GAS, AI Behavior Trees, Shader Programming, Multiplayer  
+Engines: Unreal Engine, Unity, SFML, Godot  
+Languages: C++, C#, Python  
+Systems: OOP, Design Patterns, GAS, AI Behavior Trees, Shader Programming, Multiplayer(Socket.io and Photon)  
 Tools: Git, Unity Editor Tools, Unreal Editor Tools, Blender
 
 ---
